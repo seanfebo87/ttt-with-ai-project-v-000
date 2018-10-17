@@ -1,4 +1,6 @@
 module Players 
   class Human < Player
-  end
+  
+  def move(input)
+    input 
 end
