@@ -3,4 +3,5 @@ module Players
   
   def move(input)
     input 
+  end
 end
